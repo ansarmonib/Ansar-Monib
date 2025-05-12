@@ -15,5 +15,5 @@ As a part-time DoorDash driver and full-time student, I wanted a quick way to tr
 - Structs, vectors, basic math
 
 ## Author
-**Khan Saib**  
+**Ansar Monib**  
 GitHub: [@ansarmonib](https://github.com/ansarmonib)
